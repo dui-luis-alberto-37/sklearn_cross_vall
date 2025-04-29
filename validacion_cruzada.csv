@@ -1,4 +1,4 @@
 Métrica,Exactitud,Presición,Sensivilidad,F1
-Métrica 1: SGDC,,,,
-Métrica 2: SVM,,,,
+Métrica 1: SGDClassifier,,,,
+Métrica 2: SVC,,,,
 Métrica 3: Decision Trees,,,,
